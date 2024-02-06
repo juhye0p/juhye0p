@@ -1,5 +1,5 @@
 # About me
-Senior Researcher of Defend Forward Team at STEALIEN, Republic of Korea.   
+Senior Researcher of Defend Forward Team at STEALIEN Inc, Republic of Korea.   
 - Pwn
 - Reverse Engineering
 
