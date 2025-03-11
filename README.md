@@ -1,5 +1,5 @@
 # About me
-Vulnerability Researcher of Defend Forward Team @ STEALIEN Inc, Republic of Korea.   
+Vulnerability Researcher of Defend Forward Team @ STEALIEN Inc.   
 - Pwn
 - Reverse Engineering
 
