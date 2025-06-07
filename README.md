@@ -1,5 +1,5 @@
 # About me
-Security Researcher
+Vulnerability Researcher
 - Pwn
 - Reverse Engineering
 - Hardware Analysis
